@@ -182,7 +182,7 @@ nav ul li a.active {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/placeholder.svg?height=800&width=1600');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('bobcat.jpg?height=800&width=1600');
     background-size: cover;
     background-position: center;
     color: var(--white);
